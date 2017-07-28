@@ -250,6 +250,7 @@ export default {
     self.qryBtn()*/
     var self=this
     var aa=setInterval(function(){
+      alert(Util.getCookier("tgt"))
       if(Util.getCookier("tgt")){
         self.initData()
         self.qryBtn()
