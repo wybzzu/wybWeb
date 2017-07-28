@@ -16,7 +16,7 @@
 				    	<el-button type="primary" @click="submitForm('loginForm')" class="submit_btn">登陆</el-button>
 				  	</el-form-item>
 				</el-form>
-				<p class="tip">温馨提示：</p>
+				<p class="tip">系统温馨提示：</p>
 				<p class="tip">请使用统一账号登录</p>
 	  		</section>
 	  	</transition>
